@@ -1,0 +1,5 @@
+#scrapy
+scrapy==0.24.4
+
+# http://python-wordpress-xmlrpc.readthedocs.org/en/latest/examples.html
+python-wordpress-xmlrpc==2.3
